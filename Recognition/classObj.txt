@@ -1,0 +1,10 @@
+test1 -> gelas
+test2 -> pulpen
+test3 -> charger
+test4 -> dompet
+test5 -> palu
+test6 -> gelas
+test7 -> pulpen
+test8 -> charger
+test9 -> palu
+test10 -> dompet
